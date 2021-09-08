@@ -39,5 +39,5 @@ Para la visualización de datos se hace uso de la herramienta de Kibana, esta se
 Una vez nos encontremos en la interfaz de usuario, generaremos las visualizaciones de los datos como mejor deseemos, en este caso se puede realizar diagramas de barras, pastel, geolocalización, etc.
 
 # 7. Visuzalización
-La visualización de los datos, se los puede observar en la carpeta de vizualizaciones: https://github.com/jorgew1998/Proyecto-Final-ADD/tree/main/5.%20Eventos%20o%20Acontesimientos%20Mundiales/Visualizaciones
+La visualización de los datos, se los puede observar en la carpeta de [vizualizaciones] (https://github.com/jorgew1998/Proyecto-Final-ADD/tree/main/5.%20Eventos%20o%20Acontesimientos%20Mundiales/Visualizaciones)
 
