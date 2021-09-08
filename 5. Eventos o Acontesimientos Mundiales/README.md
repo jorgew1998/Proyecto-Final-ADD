@@ -3,10 +3,9 @@ Para la obtención de los datos acerca de eventos o acontecimientos mundiales se
 
 # 2. Base de Datos
 Se hace la creación de la base de datos en “phpMyAdmin” utilizando XAMP, de esta forma podemos hacer la implementación de forma local. La base de datos se denomina “proyectoad”.
- Se hace la importación de archivos de forma manual, cabe resaltar que para realizar esto se debe de tener los datos dentro de un archivo con la extensión .CSV, además para una     mejor organización se asigna la primera fila como el nombre que tendrá cada columna de la tabla del CSV correspondiente.
- ![image](https://user-images.githubusercontent.com/58042215/132573970-2b7e41e4-9672-4b66-81de-f5180b3449fa.png)
- 
- Se realiza este mismo procedimiento con los archivos de datos restantes.
+Se hace la importación de archivos de forma manual, cabe resaltar que para realizar esto se debe de tener los datos dentro de un archivo con la extensión .CSV, además para una     mejor organización se asigna la primera fila como el nombre que tendrá cada columna de la tabla del CSV correspondiente.
+![image](https://user-images.githubusercontent.com/58042215/132573970-2b7e41e4-9672-4b66-81de-f5180b3449fa.png)
+Se realiza este mismo procedimiento con los archivos de datos restantes.
 
 # 3. Elasticearch
 Una vez se tenga adicionado todos los archivos de datos en la base de datos se realiza el levantamiento del servidor de “Elasticsearch”, para ello se tiene que hacer la descarga de los archivos de configuración de Elasticsearch y correr el archivo denominado “elasticsearch” (mismo que será una aplicación) en una terminal de Windows.
