@@ -1,5 +1,11 @@
 # Proyecto-Final-ADD
 
+# Integrantes
+* Jorge Alba
+* Juan Bolaños
+* Bernabé Dávila
+* Byron Huaraca
+
 # 1. Pulso político en 20 ciudades princiales del Ecuador.
 
 # 2.Pulso político por provincias de Ecuador.
