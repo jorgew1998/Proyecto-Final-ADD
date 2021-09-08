@@ -27,8 +27,8 @@ Una vez añadida la dirección correspondiente se podrá hacer visualización de
 
 # 5. Logstash
 Para la carga de archivos en nuestro servidor local, se hace uso de la aplicación de “logstash” para ello, primero se hace la descompresión de todos los archivos necesarios para poder correr la aplicación. Una vez realizado esto, se debe de hacer ciertas modificaciones en nuestro archivo de configuración para poder hacer el envío de la información almacena en nuestra base de datos de “phpMyAdmin”.
-    * Se debe de hacer la instalación de un conector para poder realizar la conexión con la base de datos de phpMyAdmin. Para ello se hace la utilización del instalador de MySQL         y seguido a esto en el archivo de configuración se debe de indicar la ruta directa en donde se encuentra instalado nuestro conector.
-    * Se debe de hacer la creación de un usuario en “phpMyAdmin” colocando todos los permisos de administrador sobre nuestro servidor, esto debido a una serie de permisos que           nuestro usuario root no posee.   
-    * Se debe de hacer la especificación de la base de datos que va a ser utilizada y adicional a ello se debe especificar la tabla de la cual se tomarán los datos para ser             enviados a “elasticsearch”. 
-    * Finalmente se especificará la url de nuestro servidor de “elasticsearch” incluyendo el puerto en el que estará levantado.
+* Se debe de hacer la instalación de un conector para poder realizar la conexión con la base de datos de phpMyAdmin. Para ello se hace la utilización del instalador de MySQL         y seguido a esto en el archivo de configuración se debe de indicar la ruta directa en donde se encuentra instalado nuestro conector.
+* Se debe de hacer la creación de un usuario en “phpMyAdmin” colocando todos los permisos de administrador sobre nuestro servidor, esto debido a una serie de permisos que           nuestro usuario root no posee.   
+* Se debe de hacer la especificación de la base de datos que va a ser utilizada y adicional a ello se debe especificar la tabla de la cual se tomarán los datos para ser             enviados a “elasticsearch”. 
+* Finalmente se especificará la url de nuestro servidor de “elasticsearch” incluyendo el puerto en el que estará levantado.
 
