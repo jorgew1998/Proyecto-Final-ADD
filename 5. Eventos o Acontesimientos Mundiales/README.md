@@ -32,3 +32,11 @@ Para la carga de archivos en nuestro servidor local, se hace uso de la aplicaci�
 * Se debe de hacer la especificación de la base de datos que va a ser utilizada y adicional a ello se debe especificar la tabla de la cual se tomarán los datos para ser             enviados a “elasticsearch”. 
 * Finalmente se especificará la url de nuestro servidor de “elasticsearch” incluyendo el puerto en el que estará levantado.
 
+![image](https://user-images.githubusercontent.com/58042215/132575552-12c55a8b-c4fb-4727-a4ca-39b7bc17fee6.png)
+
+# 6. Kibana
+Para la visualización de datos se hace uso de la herramienta de Kibana, esta se debe de descargar e inicializar de la misma forma como se hace con “cerebro, logstash o elasticsearch”, una vez iniciada la aplicación ya sea de forma local o en la nube, accedemos al servicio que esta nos proporciona, en este caso se lo realiza localmente, por lo que se digita http://localhost:5601 en el navegador, esta trabaja con el servidor ya levantado de elasticsearch por lo que se debe de tener levantado el servicio previamente.
+Una vez nos encontremos en la interfaz de usuario, generaremos las visualizaciones de los datos como mejor deseemos, en este caso se puede realizar diagramas de barras, pastel, geolocalización, etc.
+
+
+
