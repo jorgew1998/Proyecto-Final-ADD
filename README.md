@@ -15,3 +15,4 @@ Contiene los datos recolectados de páginas web que proporcionaban datos sobre l
 # 4. Ranking de felicidad por paises
 
 # 5. Noticias o eventos mundiales
+Hacemos la recopilación de datos a través de la página de Kaggle, se usa MySQL para el almanaje de archivos, elasticsearch para la lectura de archivos y para la vizualzación de datos a través de Kibana.
