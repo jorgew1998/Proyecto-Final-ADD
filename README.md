@@ -11,7 +11,7 @@
 # 2.Pulso político por provincias de Ecuador.
 
 # 3. Juegos en línea por paises.
-Contiene los datos recolectados de páginas web que proporcionaban datos sobre los paises con mas gamers y tambien sobre el número de jugadores con mas gamers de un juego en específico.
+Contiene los datos recolectados de páginas web que proporcionaban datos sobre los paises con mas gamers y tambien sobre el número de jugadores con mas gamers de un juego en específico, que posteriormente se almacenaron en SQL Server y visualizados con la herramienta Tableau.
 # 4. Ranking de felicidad por paises
 Contienen losdatos obtenidos  traves de la pagina de Kaggle, los cuales fueron almacenados en la base de datos SQLite, para posterior a ellos ser visualizados en la herramientas Tableau.
 
