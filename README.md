@@ -7,6 +7,7 @@
 * Byron Huaraca
 
 # 1. Pulso político en 20 ciudades princiales del Ecuador.
+Se recolectaron los diferentes tweets de acerca de las elecciones 2021, utilizando el script que se añade en la carpeta scripts. Se recolectaron datos de 20 ciudades importantes de Ecuador
 
 # 2.Pulso político por provincias de Ecuador.
 
