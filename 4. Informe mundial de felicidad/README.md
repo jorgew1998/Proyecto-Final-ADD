@@ -1,5 +1,5 @@
 # 1. Arquitectura
-Los datos fueron extraídos de Kaggle, en este se mostrara el informe mundial sobre la felicidad actualmente, al descargarlo se consigue un archivo .csv. Al descargarlo se procede a utilizar codigo de Python para poder exportar los datos a SQLite y se descargo un complemento para posterior a ello utilizar la herramientas en la que se realizaran las visualizaciones que es Tableau.
+Los datos fueron extraídos de Kaggle, en este se mostrara el informe mundial sobre la felicidad actualmente, al descargarlo se consigue un archivo .csv. Luego se procedio a utilizar codigo de Python para poder exportar los datos a SQLite y se descargo un complemento para posterior a ello utilizar la herramientas en la que se realizaran las visualizaciones que es Tableau.
 
 # 2. Extracción de datos
 Kaggle
