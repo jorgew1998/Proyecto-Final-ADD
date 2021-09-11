@@ -14,3 +14,6 @@ En esta visualizacion geográfica se muestra que tanto es el nivel de generosida
 
 En esta visualiacion se nos muestra en cual de todas las regiones se encuentra un mayor score conforme a los índices de felicidad teniendo un mayor porcentaje en Africa y el menor porcentaje en Norte America.
 ![image](https://user-images.githubusercontent.com/58036212/132587342-58026550-1afe-48a4-896a-1537be4185e9.png)
+
+![image](https://user-images.githubusercontent.com/58036212/132959256-d84ed1df-d30c-49a8-9e1d-87c2fc42c6e0.png)
+
