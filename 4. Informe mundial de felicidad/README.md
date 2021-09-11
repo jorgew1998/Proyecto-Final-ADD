@@ -12,5 +12,5 @@ Al utilizar el código en Python para ingresar los datos que se tiene en csv y u
 En esta visualizacion geográfica se muestra que tanto es el nivel de generosidad con la que se ha calificado en cada uno de los paises que se encuentran en el Ranking siendo Indonesia con la gente mas generosa y Grecia postula como la que es menos generosa.
 ![image](https://user-images.githubusercontent.com/58036212/132585749-d9a0d850-c669-4793-b87e-52b5392d934b.png)
 
-En esta visualiacion se nos muestra en cual de todas las regiones se encuentra un mayor score que se obtuvo en los indices de felicidad teniendo un mayor porcentaje en Africa y el menor en Norte America. 
+En esta visualiacion se nos muestra en cual de todas las regiones se encuentra un mayor score conforme a los índices de felicidad teniendo un mayor porcentaje en Africa y el menor en Norte America.
 ![image](https://user-images.githubusercontent.com/58036212/132587342-58026550-1afe-48a4-896a-1537be4185e9.png)
