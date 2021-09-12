@@ -7,9 +7,10 @@
 * Byron Huaraca
 
 # 1. Pulso político en 20 ciudades princiales del Ecuador.
-Se recolectaron los diferentes tweets de acerca de las elecciones 2021, utilizando el script que se añade en la carpeta scripts. Se recolectaron datos de 20 ciudades importantes de Ecuador
+Se recolectaron los diferentes tweets de acerca de las elecciones 2021, utilizando el script que se añade en la carpeta scripts. Se recolectaron datos de 20 ciudades importantes de Ecuador. Posteriormente Almacenamos los datos en una base de datos para poder exportarlos y visualizarlos con la herramineta Kibana
 
 # 2.Pulso político por provincias de Ecuador.
+A través de la página del Consejo Nacional Electoral se recaudó los datos de la primera Vuelta de las Elecciones presidenciales en donde se puede notar el porcentaje de ciudadanos que votaron por cada candidato. También se especifica que estos datos pueden tener un +-3% de error así que los datos no son del todo precisos. Se extrejo mediante python un csv que posteriormente analizamos con Kibana
 
 # 3. Juegos en línea por paises.
 Contiene los datos recolectados de páginas web que proporcionaban datos sobre los paises con mas gamers y tambien sobre el número de jugadores con mas gamers de un juego en específico, que posteriormente se almacenaron en SQL Server y visualizados con la herramienta Tableau.
