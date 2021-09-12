@@ -1,5 +1,5 @@
 # 1. Arquitectura
-Los datos fueron extraídos de Kaggle, en este se mostrara el informe mundial sobre la felicidad la cual es una encuesta realizada por las Naciones Unidas que mide como ha evolucionado la felicidad de los ciudadanos en los últimos años en 156 países, al descargar de esta pagina se consigue un archivo .csv. Luego se procedió a utilizar código de Python para poder exportar los datos a SQLite y posterior a ello se descargo un complemento para utilizar la herramienta en la que se realizaran las visualizaciones que es Tableau..
+Los datos fueron extraídos de Kaggle, en este se mostrara el informe mundial sobre la felicidad la cual es una encuesta realizada por las Naciones Unidas que mide como ha evolucionado la felicidad de los ciudadanos en los últimos años en 156 países, al descargar de esta pagina se consigue un archivo .csv. Luego se procedió a utilizar código de Python para poder exportar los datos a SQLite y posterior a ello se descargo un complemento para utilizar la herramienta en la que se realizaran las visualizaciones que es Tableau.
 
 # 2. Extracción de datos
 Kaggle
