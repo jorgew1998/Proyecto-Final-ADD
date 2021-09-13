@@ -26,4 +26,4 @@ Hacemos la recopilación de datos a través de la página de Kaggle, se usa MySQ
 
 # Documentación
 
-# Video en Youtube
+# [Video en Youtube](https://www.youtube.com/watch?v=bVmaboUOU_0)
