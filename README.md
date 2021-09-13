@@ -15,7 +15,7 @@ A través de la página del Consejo Nacional Electoral se recaudó los datos de 
 # 3. Juegos en línea por paises.
 Contiene los datos recolectados de páginas web que proporcionaban datos sobre los paises con mas gamers y tambien sobre el número de jugadores con mas gamers de un juego en específico, que posteriormente se almacenaron en SQL Server y visualizados con la herramienta Tableau.
 
-# 4. Informe mundial sobe la felicidad
+# 4. Informe mundial sobre la felicidad
 Contienen los datos obtenidos  traves de la pagina de Kaggle, los cuales fueron almacenados en la base de datos SQLite, para posterior a ellos ser visualizados en la herramientas Tableau.
 
 # 5. Noticias o eventos mundiales
