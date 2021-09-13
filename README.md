@@ -27,4 +27,6 @@ Hacemos la recopilación de datos a través de la página de Kaggle, se usa MySQ
 # Documentación
 [Informe_Proyecto_ADD.pdf](https://github.com/jorgew1998/Proyecto-Final-ADD/files/7156879/Informe_Proyecto_ADD.pdf)
 
+[Presentación-ADD](https://www.beautiful.ai/player/-MjKDWe4PADNshQxQkrO)
+
 # [Video en Youtube](https://www.youtube.com/watch?v=bVmaboUOU_0)
