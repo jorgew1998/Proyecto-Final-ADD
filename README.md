@@ -25,7 +25,6 @@ Hacemos la recopilación de datos a través de la página de Kaggle, se usa MySQ
 ![Arquitectura-ADD](https://user-images.githubusercontent.com/66254573/133143220-b2b61fc0-706e-4264-b391-068f23fb10b4.png)
 
 # Documentación
-* Informe
 [Informe_Proyecto_ADD.pdf](https://github.com/jorgew1998/Proyecto-Final-ADD/files/7156879/Informe_Proyecto_ADD.pdf)
 
 # [Video en Youtube](https://www.youtube.com/watch?v=bVmaboUOU_0)
