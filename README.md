@@ -20,3 +20,10 @@ Contienen los datos obtenidos  traves de la pagina de Kaggle, los cuales fueron 
 
 # 5. Noticias o eventos mundiales
 Hacemos la recopilación de datos a través de la página de Kaggle, se usa MySQL para el almanaje de archivos, elasticsearch para la lectura de archivos y para la vizualzación de datos a través de Kibana.
+
+# Arquitectura de Solución
+![Arquitectura-ADD](https://user-images.githubusercontent.com/66254573/133143220-b2b61fc0-706e-4264-b391-068f23fb10b4.png)
+
+# Documentación
+
+# Video en Youtube
